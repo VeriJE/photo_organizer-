@@ -1,5 +1,4 @@
 # Photo Organizer Script
-======================
 
 This is a simple Bash script that automatically organizes image files into folders
 based on their modification date (month and year). It's useful for sorting photos
